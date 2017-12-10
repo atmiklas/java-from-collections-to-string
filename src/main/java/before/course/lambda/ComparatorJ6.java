@@ -1,3 +1,5 @@
+package before.course.lambda;
+
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
@@ -17,7 +19,8 @@ public class ComparatorJ6 {
 
         //
         // Przekazanie kodu jako parametru
-         Collections.sort(list, (s1, s2) -> s1.compareTo(s2));
+    //         Collections.sort(list, (s1, s2) -> s1.compareTo(s2));
+
         System.out.println(list);
     }
 

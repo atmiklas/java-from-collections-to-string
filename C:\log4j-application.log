@@ -1,0 +1,8 @@
+2017-11-25 18:50:31 INFO  StreamDemo2:32 - Product as Optional: 6
+2017-11-25 18:50:31 INFO  StreamDemo2:40 - Product as int: 6
+2017-11-25 18:51:01 INFO  StreamDemo2:32 - Product as Optional: 6
+2017-11-25 18:51:01 DEBUG StreamDemo2:40 - Product as int: 6
+2017-11-25 18:51:29 INFO  StreamDemo2:32 - Product as Optional: 6
+2017-11-25 18:51:29 DEBUG StreamDemo2:40 - Product as int: 6
+2017-11-25 18:52:11 INFO  StreamDemo2:32 - Product as Optional: 6
+2017-11-25 18:52:11 DEBUG StreamDemo2:40 - Product as int: 6
